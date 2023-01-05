@@ -1,0 +1,23 @@
+.back1{
+    background-color: lightblue;
+    padding: 10px;
+}
+.bor1{
+    border: none;
+    border-top: 10px solid red;
+}
+.bor2{
+    border: none;
+    border-top: 10px solid yellow;
+}
+.bor3{
+    border: none;
+    border-top: 10px solid green;
+}
+.bor4{
+    border: none;
+    border-top: 10px solid blue;
+}
+.tec{
+    float: right;
+}

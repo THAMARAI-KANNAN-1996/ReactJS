@@ -1,0 +1,8 @@
+.animalsbg{
+    background-image: url('../images/animals.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.animalspad{
+    padding: 50px;
+}

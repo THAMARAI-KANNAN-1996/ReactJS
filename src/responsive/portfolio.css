@@ -1,0 +1,62 @@
+.homebg{
+    background-image: url('../images/home2.jpeg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.aboutbg{
+    background-color: green;
+    height: 50vh;
+}
+.aboutbg2{
+    height: 50vh;
+}
+
+.workssiz{
+    font-size: 50px;
+}
+
+.farmbg{
+    background-image: url(../images/about3.jpeg);
+    height: 100vh;
+    background-size: cover;
+}
+
+
+.animalsbg{
+    background-image: url('../images/animals.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.animalspad{
+    padding: 50px;
+}
+
+.productbg{
+    background-color: lightblue;
+    padding: 100px;
+}
+.productbor{
+    border: 1px solid black;
+    border-radius: 50%;
+    background-image: url('../images/product1.jpeg');
+}
+
+
+.testsiz{
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.testback{
+    background-image: url('../images/test2.jpeg');
+    height: 100vh;
+    background-size: cover;
+}
+.testpad{
+    padding: 70px;
+}
+
+.aboutbg2{
+    height: 100%;
+}

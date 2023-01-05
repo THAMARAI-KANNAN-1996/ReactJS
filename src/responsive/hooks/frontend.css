@@ -1,0 +1,7 @@
+.fs:hover{
+    background-color:lavenderblush;
+    transform:scale(1.1);
+}
+.fs:active{
+    background-color:azure;
+}

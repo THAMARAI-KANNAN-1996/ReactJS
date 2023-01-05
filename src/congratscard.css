@@ -1,0 +1,16 @@
+.congratsback{
+    background-image:url(./images/cardimg1.png);
+    height:99vh;
+    width: 100%;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.congratsbacks{
+    background-color: aqua;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    padding-bottom: 10px;
+}
