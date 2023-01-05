@@ -1,0 +1,74 @@
+[
+    {
+        "image":"https://imgd.aeplcdn.com/1280x720/n/cw/ec/48728/bajaj-dominar-250-exterior5.jpeg?wm=2&q=75",
+        "name":"Dominar 250",
+        "description":"The Bajaj Dominar 250 is powered by a 248.77 cc air-cooled engine which produces of power. It has a fuel tank of 13 L and a . The Bajaj Dominar 250 starts at Rs 1.75 Lakh Rs (ex-showroom, Delhi). It is available in one variants.",
+        "price":"200000INR",
+        "rat":5
+    },
+    {
+        "image":"https://economictimes.indiatimes.com/thumb/msid-86844531,width-1200,height-900,resizemode-4,imgsize-60824/1.jpg?from=mdr",
+        "name":"X Pulse 200",
+        "description":"Hero XPulse 200 is powered by 199.6 cc engine.This XPulse 200 engine generates a power of 19.17 PS @ 8500 rpm and a torque of 17.35 Nm @ 6500 rpm. The claimed mileage of XPulse 200 is 51.59 kmpl. Hero XPulse 200 gets Disc brakes in the front and rear. The kerb weight of XPulse 200 is 160 Kg. Hero XPulse 200 has Tubeless Tyre and Spoke Wheels.",
+        "price":"150000INR",
+        "rat":4.5
+    },
+    {
+        "image":"https://bikeindia.in/wp-content/uploads/2016/02/Yamaha-XSR900-web.jpg",
+        "name":"Yamaha XSR 900",
+        "description":"The motorcycle is powered by a 847cc, three cylinder engine producing 113.4 BHP and 87.5 Nm of torque. It claims a seat height of 830 mm while the overall weight stands at 195 kg. The motorcycle uses a 14 liter fuel tank and may get a price tag of around INR 9 lakh, if launched in India.",
+        "price":"300000INR",
+        "rat":4.9
+    },
+    {
+        "image":"https://viktormotosport.hr/wp-content/uploads/2018/09/kawasaki-ninja-650-2023-2.jpg",
+        "name":"Kawasaki Ninja H2R",
+        "description":"The Kawasaki Ninja H2R is powered by 998cc BS6 engine which develops a power of 305.75 bhp and a torque of 165 Nm. With both front and rear disc brakes, Kawasaki Ninja H2R comes up with anti-locking braking system. This Ninja H2R bike weighs 216 kg and has a fuel tank capacity of 17 liters.",
+        "price":"400000INR",
+        "rat": 4
+        
+    },
+    {
+        "image":"https://gaadiwaadi.com/wp-content/uploads/2021/02/Smoked-Garage-Royal-Enfield-Himalayan-3.jpg",
+        "name":"RE Himalayan",
+        "description":"The Royal Enfield Himalayan 650 is a motorcycle that comes with a price tag of estimate Rs. 3.80 Lakh.It is available in 1 variant. Himalayan 650 is powered by a bs6 engine. It has front brakes and rear brakes.",
+        "price":"250000INR",
+        "rat":3.9
+    },
+    {
+        "image":"https://49f44b141764baa2639d-7ed4c224bc1671c64dae8740f0861232.ssl.cf6.rackcdn.com/motorcycles/trk-502-2020/gallery/trk502_My2020_4.jpg",
+        "name":"Benelli TRK 502",
+        "description":"Benelli TRK 502 is powered by 500 cc engine.This TRK 502 engine generates a power of 47.5 PS @ 8500 rpm and a torque of 46 Nm @ 6000 rpm. The claimed mileage of TRK 502 is 30.16 kmpl. Benelli TRK 502 gets Disc brakes in the front and rear. Benelli TRK 502 has Tubeless Tyre",
+        "price":"600000INR",
+        "rat":3.8
+
+    },
+    {
+        "image":"https://www.financialexpress.com/wp-content/uploads/2021/06/2021-bmw-r-1250-gs.jpg",
+        "name":"BMW 1250r",
+        "description":"BMW has launched the R 1250 R in India at Rs 15.95 lakh (ex-showroom, India). This naked roadster gets an all-new and larger 1254cc boxer twin motor. The motor makes 136PS and 143Nm which is 11PS and 18Nm more than the R 1200 R. It also gets BMW's ShiftCam technology that makes the motor tractable and offers performance throughout the rev range.",
+        "price":"1000000INR",
+        "rat":3.5
+    },
+    {
+        "image":"https://www.hondabigwing.in/Content/images/cb350rs/Features/Massive/Dual%20Tone%20Fuel%20Tank.jpg",
+        "name":"Honda CB 350",
+        "description":"The Honda H'ness CB350 is powered by a 348.36 cc air-cooled engine which produces 21 PS of power. It has a fuel tank of 15 L. The Honda H'ness CB350 starts at Rs 2 and goes up to Rs 2.08 Lakh (ex-showroom, Delhi). It is available in three variants.",
+        "price":"350000INR",
+        "rat":3.0
+    },
+    {
+        "image":"https://media.zigcdn.com/media/content/2022/Nov/6378648dd8d6c_720x540.jpg",
+        "name":"Harley DavidSon NightRod",
+        "description":"The Night Rod® Special is a bold, drag-inspired bike that delivers big power and performance. Pure Harley-Davidson® Styling: The blacked out styling on the big V-Twin engine delivers a unique custom look. Check out those blacked out cylinders, heads, and rocker covers.",
+        "price":"14000000INR",
+        "rat":4.2
+    },
+    {
+        "image":"https://static.toiimg.com/photo/msid-63397112/63397112.jpg",
+        "name":"Triumph Tiger 800",
+        "description":"The 2018 Triumph Tiger 800 gets more than 200 tweaks, most of which are have been in the engine department. Surprisingly, the adventure tourer makes the same power and torque figures as earlier - 95PS of max power at 9,250rpm and 79Nm of peak torque at 7,850rpm. The 800cc liquid-cooled, DOHC, 3-cylinder engine is, however, tweaked to deliver better throttle response",
+        "price":"800000INR",
+        "rat":3.9
+    }
+]
